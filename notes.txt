@@ -1,0 +1,39 @@
+//generate random number
+function targetNumber () {
+	console.log(targetNumber);
+    console.log();   
+}
+
+targetNumber();
+
+
+//generate random number for crystal 1
+function crystal1 () {
+	console.log(crystal1);
+    console.log();   
+}
+
+crystal1();
+
+
+//generate random number for crystal 2
+function crystal2 () {
+	console.log(crystal2);
+    console.log();   
+}
+
+crystal3();
+//generate random number for crystal 3
+function crystal3 () {
+	console.log(crystal3);
+    console.log();   
+}
+
+crystal3();
+//generate random number for crystal 4
+function crystal4 () {
+	console.log(crystal4);
+    console.log();   
+}
+
+crystal4();
