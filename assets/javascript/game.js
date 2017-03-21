@@ -17,11 +17,12 @@ console.log(targetNumber, crystal1,crystal2,crystal3,crystal4 );
 //function when the user clicks crystal 1 they get the randomly assigned points added to their running total
 //var startNumber = 0;
 $('button').click(function (currentvalue){
+	alert("CLICKED");
    startNumber = Number(startNumber) + Number($(this).val());
     $('.total').text("Total: "+startNumber);        
 });
 
-$('.total').text(startNumber); 
+//$('.total').text(startNumber); 
 
 //function to compare running total to randomly generated target number
 
